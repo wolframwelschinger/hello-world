@@ -1,0 +1,21 @@
+{
+  "name": "hello-world",
+  "version": "0.0.1",
+  "description": "A sample hello-world.js app",
+  "engines": {
+    "node": "6.3.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wolframwelschinger/hello-world"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ],
+  "license": "MIT"
+}
